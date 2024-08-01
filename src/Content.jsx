@@ -1,9 +1,21 @@
 const Content = () => {
     return (
         <div>
-            Content
-        </div>
+            <div>
+                <button>Add</button>
+                <button>Subtract</button>
+                <button>Multiply</button>
+                <button>Divide</button>
+            </div>
 
+                <input />
+                +
+                <input />
+                =
+            <div>
+                <button>Calculate</button>
+            </div>
+        </div>
     );
 
 }
